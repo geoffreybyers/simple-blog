@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: [footnotes]
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            geoffreybyers
+tagline:          
+url:              http://geoffreybyers.github.io
+paginate:         5
+baseurl:          /
+author:
+  name:           Geoffrey Byers
+  url:            https://twitter.com/geoffreybyers
+  email:          geoffrey@geoffreybyers.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
